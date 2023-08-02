@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {Amplify, Auth} from 'aws-amplify';
 import awsconfig from './aws-exports';
